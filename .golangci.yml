@@ -14,7 +14,7 @@ linters:
   disable:
     - bodyclose # too many false-positive
     - containedctx # too many false-positive
-    - contextcheck # too many false-positive
+    - contextcheck # too many false-positiver
     - cyclop # duplicate of gocyclo
     - dupl # Too strict
     - err113 # Too strict
